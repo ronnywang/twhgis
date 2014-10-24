@@ -1959,12 +1959,10 @@
         "county": "桃園縣",
         "town": "八德市",
         "vid": "10003080-047",
-        "action": "C",
+        "action": "U",
         "date": 1264953600000,
         "village": "永豐里",
-        "others": [
-            "茄苳里"
-        ]
+        "original": "茄豐里"
     },
     {
         "county": "臺北縣",
