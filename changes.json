@@ -2142,12 +2142,12 @@
     },
     {
         "county": "桃園縣",
-        "town": "楊梅鎮",
+        "town": "楊梅市",
         "vid": "10003040",
         "action": "U",
         "date": 1280592000000,
-        "village": "楊梅市",
-        "original": ""
+        "village": "",
+        "original": "楊梅鎮"
     },
     {
         "county": "新竹縣",
